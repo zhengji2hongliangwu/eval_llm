@@ -1,0 +1,21 @@
+{
+
+    "bench_gesture": {
+        "dataset_path": "/workspace/llm/dataset/datasetfinetuning/dataset/benchmark/bench_toolcall/bench_gesture.jsonl",
+        "preprocess": "custom",
+        "split_dataset_ratio": 0.0,
+        "channel": "tool"
+    },
+    "bench_self_condition": {
+        "dataset_path": "/workspace/llm/dataset/datasetfinetuning/dataset/benchmark/self_condition/self_condition_test.jsonl",
+        "preprocess": "auto",
+        "split_dataset_ratio": 0.0,
+        "channel": "self_condition"
+    },
+    "bench_commensense": {
+        "dataset_path": "/workspace/llm/dataset/datasetfinetuning/dataset/benchmark/bench_commensense_chat/bench_commensense.jsonl",
+        "preprocess": "auto",
+        "split_dataset_ratio": 0.0,
+        "channel": "chat"
+    }
+}

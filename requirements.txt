@@ -1,0 +1,22 @@
+
+json_repair
+datasets
+modelscope
+transformers
+accelerate
+openai
+# 日志和工具
+loguru
+aiohttp
+tqdm
+
+# 评估指标
+nltk
+jieba
+rouge
+rouge_chinese
+rouge_score
+sacrebleu
+
+# 可视化
+swanlab
